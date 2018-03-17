@@ -1,0 +1,23 @@
+{
+	"basics":{
+		"object":"To my professional career with furthean eecutive level management position in a world class company"
+
+	},
+	"education":[
+		{
+		"degree":"B.Tech(computer science of engineering)",
+		"college":"klmcew",
+		"data":["2015-19","75"]
+	},
+	{
+	"degree":"intermidate",
+	"college":"sri gayatri",
+	"data":["2013-15","72"]
+},
+{
+	"degree":"ssc",
+	"college":"sri vidhyadhari",
+	"data":["2012-2013","75"]
+}
+]
+}
